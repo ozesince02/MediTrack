@@ -1,6 +1,12 @@
 # MediTrack
 Clinic & Appointment Management System
 
+## Documentation
+- **Setup instructions**: `docs/Setup_Instructions.md`
+- **JVM report** (Class Loader, Runtime Data Areas, Execution Engine, JIT vs Interpreter, WORA): `docs/JVM_Report.md`
+- **Design decisions**: `docs/Design_Decisions.md`
+
+
 ## Setup
 - Install **Java JDK 25**.
   - Verify:
